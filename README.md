@@ -1,6 +1,6 @@
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm [Ha Shing Thang!](https://devidol-mm.cyclic.app/) 👋
 
-I'm a Full Stack Developer at [Your Company/Current Role] with a passion for crafting web and mobile applications. Here's a glimpse of my technology stack:
+I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a passion for crafting web and mobile applications. Here's a glimpse of my technology stack:
 
 | Frontend Skills  | Backend Skills    | Database & Cloud Skills |
 |------------------|-------------------|--------------------------|
@@ -19,7 +19,7 @@ I'm a Full Stack Developer at [Your Company/Current Role] with a passion for cra
 
 💬 Feel free to reach out to me if you have any questions, need help, or just want to chat about tech.
 
-📫 You can reach me via email at [hashingthang@metateammyanmar.com]
+📫 You can reach me via email at hashingthang@metateammyanmar.com
 
 😄 Pronouns: Thang Thang
 
