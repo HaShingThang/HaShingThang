@@ -10,6 +10,7 @@ I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a pass
 | Tailwind CSS     | Node.js/Nest.js   | MongoDB                  |
 | React.js/Next.js | Golang            |                          |
 | Angular          |                   |                          |
+| Vue              |                   |                          |
 | Flutter          |                   |                          |
 
 
