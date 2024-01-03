@@ -9,7 +9,7 @@ I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a pass
 | SCSS/SASS        | Node.js/Strapi    | PostgreSQL               |
 | Tailwind CSS     | Node.js/Nest.js   | MongoDB                  |
 | React.js/Next.js | Golang            |                          |
-| Angular          |                   |                          |
+| Angular          | Java              |                          |
 | Vue              |                   |                          |
 | Flutter          |                   |                          |
 
