@@ -2,18 +2,18 @@
 
 I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a passion for crafting web and mobile applications. Here's a glimpse of my technology stack:
 
-| Frontend Skills  | Backend Skills    | Database & Cloud Skills  | Cyber Security         |
-|------------------|-------------------|--------------------------|------------------------|
-| HTML5            | PHP/Laravel       | Firebase                 | Web Security           |
-| CSS3             | Node.js/Express   | MySQL                    |                        |
-| SCSS/SASS        | Node.js/Strapi    | PostgreSQL               |                        |
-| Tailwind CSS     | Node.js/Nest.js   | MongoDB                  |                        |
-| React.js/Next.js | Node.js/Servless  |                          |                        |
-| Angular          | Golang /GinGonic  |                          |                        |
-| Vue              | Java/Spring Boot  |                          |                        |
-| Flutter          | C#(ASP.Net Core)  |                          |                        |
-| React Native     |                   |                          |                        |
-| Ionic            |                   |                          |                        |
+| Frontend Skills  | Backend Skills    | Database & Other Skills  |Architecture       | Cyber Security           |
+|------------------|-------------------|--------------------------|-------------------|--------------------------|
+| HTML5            | PHP/Laravel       | Firebase                 | MVC               |Web Application Security  |
+| CSS3             | Node.js/Express   | MySQL                    | MVVM              |                          |
+| SCSS/SASS        | Node.js/Strapi    | PostgreSQL               | Clean Architecture|                          |
+| Tailwind CSS     | Node.js/Nest.js   | MongoDB                  |                   |                          |
+| React.js/Next.js | Node.js/Servless  | CI/CD                    |                   |                          |
+| Angular          | Golang /GinGonic  | AWS lambda               |                   |                          |
+| Vue              | Java/Spring Boot  | Nginx                    |                   |                          |
+| Flutter          | C#(ASP.Net Core)  | MicroService             |                   |                          |
+| React Native     | Middy.js          |                          |                   |                          |
+| Ionic            | RabbitMQ          |                          |                   |                          |
 
 
 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving world of web and mobile app development.
