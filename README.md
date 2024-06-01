@@ -1,4 +1,5 @@
 ### Hi there, I'm [Ha Shing Thang!](https://devidol-mm.cyclic.app/) 👋
+[Personal GitHub Account(DevIdol)](https://github.com/DevIdol)
 
 I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a passion for crafting web and mobile applications. Here's a glimpse of my technology stack:
 
