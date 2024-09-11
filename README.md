@@ -10,10 +10,10 @@ I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a pass
 | SCSS/SASS        | Node.js/Strapi    | PostgreSQL               | Clean Architecture|                          |
 | Tailwind CSS     | Node.js/Nest.js   | MongoDB                  |                   |                          |
 | React.js/Next.js | Node.js/Servless  | CI/CD                    |                   |                          |
-| Angular          | Golang /GinGonic  | AWS lambda               |                   |                          |
-| Vue              | Java/Spring Boot  | Nginx                    |                   |                          |
-| Flutter          | C#(ASP.Net Core)  | MicroService             |                   |                          |
-| React Native     | Middy.js          |                          |                   |                          |
+| Angular          | Golang /GinGonic  | AWS/Google Cloud         |                   |                          |
+| Vue              | Java/Spring Boot  |Linux System Administration|                  |                          |
+| Flutter          | C#(ASP.Net Core)  |Linux Server Configuration|                   |                          |
+| React Native     | Middy.js          | MicroService             |                   |                          |
 | Ionic            | RabbitMQ          |                          |                   |                          |
 
 
