@@ -3,18 +3,21 @@
 
 I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a passion for crafting web and mobile applications. Here's a glimpse of my technology stack:
 
-| Frontend Skills  | Backend Skills    | Database & Other Skills  |Architecture       | Cyber Security           |
-|------------------|-------------------|--------------------------|-------------------|--------------------------|
-| HTML5            | PHP/Laravel       | Firebase                 | MVC               |Web Application Security  |
-| CSS3             | Node.js/Express   | MySQL                    | MVVM              |                          |
-| SCSS/SASS        | Node.js/Strapi    | PostgreSQL               | Clean Architecture|                          |
-| Tailwind CSS     | Node.js/Nest.js   | MongoDB                  |                   |                          |
-| React.js/Next.js | Node.js/Servless  | CI/CD                    |                   |                          |
-| Angular          | Golang /GinGonic  | AWS/Google Cloud         |                   |                          |
-| Vue              | Java/Spring Boot  |Linux System Administration|                  |                          |
-| Flutter          | C#(ASP.Net Core)  |Linux Server Configuration|                   |                          |
-| React Native     | Middy.js          | MicroService             |                   |                          |
-| Ionic            | RabbitMQ          |                          |                   |                          |
+# Skills Overview
+
+| **Web Development Skills**           | **Mobile Development Skills**    | **Backend Development**        | **Database & Tools**           | **Architectural Patterns**    | **Cybersecurity**               |
+|--------------------------------------|----------------------------------|--------------------------------|--------------------------------|-------------------------------|---------------------------------|
+| HTML5                                | Flutter                          | PHP/Laravel                    | Firebase                       | MVC                           | Web Application Security        |
+| CSS3/SCSS/SASS                       | React Native                     | Node.js/Express                | MySQL/SQLite(local)            | MVVM                          |                                 |
+| MUI/Tailwind Css/Bootstrap           | Ionic                            | Node.js/Strapi                 | PostgreSQL                     | Clean Architecture            |                                 |
+| React.js/Next.js(Redux Toolkit)      |                                  | Node.js/Nest.js                | MongoDB                        |                               |                                 |
+| Angular                              |                                  | Node.js/Serverless             | CI/CD                          |                               |                                 |
+| Vue                                  |                                  | Golang/GinGonic                | AWS/Google Cloud               |                               |                                 |
+|                                      |                                  | Java/Spring Boot               | Linux System Administration     |                               |                                 |
+|                                      |                                  | C#(ASP.Net Core)               | Linux Server Configuration      |                               |                                 |
+|                                      |                                  | Middy.js                       | MicroService                   |                               |                                 |
+|                                      |                                  | RabbitMQ                       |                                |                               |                                 |
+
 
 
 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving world of web and mobile app development.
