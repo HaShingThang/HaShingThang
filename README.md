@@ -5,18 +5,23 @@ I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a pass
 
 # Skills Overview
 
-| **Web Development Skills**           | **Mobile Development Skills**    | **Backend Development**        | **Database & Tools**           | **Architectural Patterns**    | **Cybersecurity**               |
-|--------------------------------------|----------------------------------|--------------------------------|--------------------------------|-------------------------------|---------------------------------|
-| HTML5                                | Flutter                          | PHP/Laravel                    | Firebase                       | MVC                           | Web Application Security        |
-| CSS3/SCSS/SASS                       | React Native                     | Node.js/Express                | MySQL/SQLite(local)            | MVVM                          |                                 |
-| MUI/Tailwind Css/Bootstrap           | Ionic                            | Node.js/Strapi                 | PostgreSQL                     | Clean Architecture            |                                 |
-| React.js/Next.js(Redux Toolkit)      |                                  | Node.js/Nest.js                | MongoDB                        |                               |                                 |
-| Angular                              |                                  | Node.js/Serverless             | CI/CD                          |                               |                                 |
-| Vue                                  |                                  | Golang/GinGonic                | AWS/Google Cloud               |                               |                                 |
-|                                      |                                  | Java/Spring Boot               | Linux System Administration     |                               |                                 |
-|                                      |                                  | C#(ASP.Net Core)               | Linux Server Configuration      |                               |                                 |
-|                                      |                                  | Middy.js                       | MicroService                   |                               |                                 |
-|                                      |                                  | RabbitMQ                       |                                |                               |                                 |
+| **Web and Mobile Development Skills**           | **Backend Development**        | **Database & DevOps Tools**     | **Architectural Patterns**    | **Cybersecurity**               |
+|------------------------------------------------|--------------------------------|--------------------------------|-------------------------------|---------------------------------|
+| HTML5                                          | PHP/Laravel                    | MySQL                          | MVC                           | Web Application Security        |
+| CSS3/SCSS/SASS                                 | Node.js/Express                | PostgreSQL                     | MVVM                          |                                 |
+| MUI/Tailwind CSS/Bootstrap                     | Node.js/Strapi                 | MongoDB                        | Clean Architecture            |                                 |
+| React.js/Next.js (Redux Toolkit)              | Node.js/Nest.js                | SQLite                         |                               |                                 |
+| Angular                                        | Node.js/Serverless             | Firebase                       |                               |                                 |
+| Vue                                            | Golang/GinGonic                | AWS/Google Cloud               |                               |                                 |
+| Flutter                                        | Java/Spring Boot               | MicroService                  |                               |                                 |
+| React Native                                   | C#(ASP.Net Core)               | RabbitMQ                       |                               |                                 |
+| Ionic                                          | Middy.js                       |  Linux System Administration   |                               |                                 |
+|                                                |                                | CI/CD                          |                               |                                 |
+|                                                |                                | Linux Server Configuration      |                               |                                 |
+|                                                |                                | Docker                         |                               |                                 |
+
+
+
 
 
 
